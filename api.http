@@ -1,0 +1,13 @@
+GET http://localhost:3000
+
+# POST http://localhost:3000
+# content-type: application/json
+
+# {
+#     "name": " Jose",
+#     "email": "jose@mailer.com"
+# }
+
+# PUT http://localhost:3000/62b532cc4236903b25a75674
+
+# DELETE http://localhost:3000/62b532cc4236903b25a75674
